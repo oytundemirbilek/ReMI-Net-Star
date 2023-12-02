@@ -68,18 +68,36 @@ ReMI-Net output is a list of forecasted CBTs shaped as (#timepoints, #ROIs, #ROI
 # YouTube videos to install and run the code and understand how ReMI-Net works
 
 To install and run ReMI-Net-Star, check the following YouTube video:
+https://www.youtube.com/watch?v=v6RKX86r2Fo&ab_channel=BASIRALab
 
 
 To learn about how ReMI-Net-Star works, check the following YouTube video:
-
+https://www.youtube.com/watch?v=2juy7Qk5WJc&ab_channel=BASIRALab
 
 # Related references
 
+```
+@inproceedings{demirbilek2021recurrent,
+  title={Recurrent Multigraph Integrator Network for Predicting the Evolution of Population-Driven Brain Connectivity Templates},
+  author={Demirbilek, Oytun and Rekik, Islem},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={584--594},
+  year={2021},
+  organization={Springer}
+}
+```
 
 # Citation
-
-
-# ReMI-Net on arXiv
+```
+@article{demirbilek2022predicting,
+  title={Predicting the evolution trajectory of population-driven connectional brain templates using recurrent multigraph neural networks},
+  author={Demirbilek, Oytun and Rekik, Islem and Alzheimer’s Disease Neuroimaging Initiative and others},
+  journal={Medical Image Analysis},
+  pages={102649},
+  year={2022},
+  publisher={Elsevier}
+}
+```
 
 
 # Acknowledgement
